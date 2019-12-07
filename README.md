@@ -1,6 +1,9 @@
 # Description
 This repository contains document mirrors Authored by Timo M. A. Mulder
 
+CV:
+https://github.com/timomulder/documents/raw/master/Timo_CV_Public.pdf
+
 Identifying Social Media Users Across Platforms and Highlighting Privacy Concerns (MSc Thesis):
 
 https://project-archive.inf.ed.ac.uk/msc/20172326/msc_proj.pdf
