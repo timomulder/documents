@@ -9,4 +9,6 @@ Robot Learning of Social Path Planning Using a Simulator (BSc Thesis) Thesis:
 
 https://esc.fnwi.uva.nl/thesis/centraal/files/f713506676.pdf 
 
-extended abstract: https://github.com/timomulder/documents/raw/master/RLoSPPUaS_BNAIC_Mulder_final.pdf
+extended abstract:
+
+https://github.com/timomulder/documents/raw/master/RLoSPPUaS_BNAIC_Mulder_final.pdf
